@@ -20,3 +20,24 @@
 1527035489 d:\repaso\controlador.h
 	"cliente.h"
 
+1562803710 source:c:\users\jonathan roberts\desktop\new1.1\punterosenc-\punterosaarray\cliente.c
+	"cliente.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1562803710 c:\users\jonathan roberts\desktop\new1.1\punterosenc-\punterosaarray\cliente.h
+
+1562803710 source:c:\users\jonathan roberts\desktop\new1.1\punterosenc-\punterosaarray\controlador.c
+	"controlador.h"
+	"cliente.h"
+
+1562803710 c:\users\jonathan roberts\desktop\new1.1\punterosenc-\punterosaarray\controlador.h
+	"cliente.h"
+
+1562803710 source:c:\users\jonathan roberts\desktop\new1.1\punterosenc-\punterosaarray\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+	"controlador.h"
+

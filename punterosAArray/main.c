@@ -11,7 +11,7 @@ int main()
     altaCliente(&qtyArrayClientes,pArrayClientes);
     altaCliente(&qtyArrayClientes,pArrayClientes);
     altaCliente(&qtyArrayClientes,pArrayClientes);
-   // printf(" cantidad:%d ",qtyArrayClientes);
+    printf(" cantidad:%d ",qtyArrayClientes++);
 
     listarClientes(qtyArrayClientes,pArrayClientes);
     return 0;
